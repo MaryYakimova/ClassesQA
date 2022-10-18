@@ -1,0 +1,17 @@
+class VideoRecorder
+{
+    public method Movie startMovie()
+}
+class Videocaseta
+subclass Horror, Action, Comedy, Dramma, Triller
+class Viwer 
+{
+    private Moody moodyLevel
+    public method watchVideocasseta(Comedy comedy)
+    {
+        moodyLevel+=comedy.getMoody()
+    }
+}
+Viwer MaryYakimova
+Videocaseta myEveningVideocaseta = VideoRecorder.startMovie()
+MaryYakimova.watchVideocasseta(myEveningVideocaseta)
